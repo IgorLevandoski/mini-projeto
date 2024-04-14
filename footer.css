@@ -1,0 +1,14 @@
+footer{
+    background-color: gray;
+    height: 3%;
+    width: 96%;
+    position: relative;
+    left: 1.5%;
+    top: 15%;
+
+    a{
+        color: white;
+        text-decoration: none;
+    }
+
+}

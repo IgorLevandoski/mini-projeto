@@ -1,0 +1,113 @@
+main{
+    background-color:white;
+    height: 800px;
+    width: 70%;
+    position: absolute;
+    left: 2%;
+    top: 27%;
+}
+
+.artigo-1 {
+    background-color: gray;
+    height: 40%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+
+
+
+
+    #sec1{
+        background-color: white;
+        height: 50%;
+        width: 40%;
+        position: absolute;
+        left: 5%;
+        top: 20%;
+        text-align: left;
+
+    }
+    #sec2 {
+        height: 50%;
+        width: 40%;
+        position: absolute;
+        left: 50%;
+        top: 20%;
+        text-align: left;
+
+    }    
+
+}
+.artigo-2 {
+    height: 80%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 42%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3%;
+}
+
+#sec3{
+    background-color: gray;
+
+}
+
+
+#sec4{
+    background-color: gray;
+}
+
+h1{
+    color: white;
+    background-color: rgba(68, 67, 67, 0.973);
+    height: 8%;
+    width: 100%;
+    position: relative;
+    left: 0%;
+    top: 0%;
+    text-align: left;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+   
+}
+h2{
+    color: white;
+    height: 8%;
+    width: 100%;
+    position: relative;
+    left: 0%;
+    top: 0%;
+    text-align: center;
+}
+h3{
+    background-color: rgba(68, 67, 67, 0.973);
+    color: white;
+    height: 4%;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 0%;
+    text-align: center; 
+}
+p{
+    color: white;
+    height: 8%;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 0%;
+    text-align: justify;
+}
+ul{
+    color: white;
+    height: 8%;
+    width: 80%;
+    position: relative;
+    left: 5%;
+    top: 0%;
+    text-align: left;
+}
